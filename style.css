@@ -61,10 +61,10 @@ header div {
 
 .action-section {
   display: flex;
+  width: 70%;
   justify-content: space-between;
   align-items: center;
   margin: 100px auto;
-  width: 80%;
   
 }
 .action-section h2 {
@@ -256,6 +256,7 @@ textarea::placeholder {
 }
 .contact-section button{
   margin-top: 20px;
+  width: 500px;
 }
 footer{
   text-align: center;
